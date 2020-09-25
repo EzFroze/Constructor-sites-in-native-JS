@@ -23,4 +23,4 @@ or
 yarn serve
 ```
 
-Откройте в браузере https://localhost:300
+Откройте в браузере https://localhost:3000
